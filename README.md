@@ -5,7 +5,8 @@
 </div>
 
 <!--
-originally cloned from **nikolalsvk/nikolalsvk**
+**professorsugoi/professorsugoi**
+originally cloned from https://github.com/nikolalsvk
 
 Here are some ideas to get you started:
 
