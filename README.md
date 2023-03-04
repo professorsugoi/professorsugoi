@@ -1,11 +1,11 @@
 <div style="width: 100%;">
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
+  <a href="https://github.com/professorsugoi/professorsugoi/blame/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
 <!--
-**nikolalsvk/nikolalsvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+originally cloned from **nikolalsvk/nikolalsvk**
 
 Here are some ideas to get you started:
 

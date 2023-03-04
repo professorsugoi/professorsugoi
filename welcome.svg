@@ -13,12 +13,13 @@
       }
 
       .body {
-        --color-main: #ff9b71;
-        --color-primary: #ff4444;
-        --color-secondary: #e8e677;
-        --color-background: #0d1117;
-        --color-link: #fef29e;
-        --color-link-active: #ff4444;
+        --color-main: #F20089;
+        --color-primary: #D100D1;
+        --color-secondary: #A100F2;
+        --color-background: #0F1108;
+        --color-link: #D100D1;
+        --color-link-active: #A100F2;
+        --color-text: #D0F7F5;
 
         height: 400px;
         width: 100%;
@@ -112,7 +113,7 @@
       ul {
         font-size: 16px;
         line-height: 26px;
-        color: var(--color-main);
+        color: var(--color-text);
         font-weight: 700;
         font-family: "Open Sans", sans-serif;
       }
@@ -133,7 +134,7 @@
 
       .hi {
         display: inline-block;
-        transform-origin: 70% 70%;
+        transform-origin: 50% 50%;
         animation: hi 3s linear -2s infinite;
       }
 
@@ -203,24 +204,24 @@
     <div class='body'>
       <div class='container'>
         <h1>
-          <a href="https://github.com/nikolalsvk">
-            <span><em>nikola đuza</em></span>
-            <span><em>nikola đuza</em></span>
-            <span><em>nikola đuza</em></span>
+          <a href="https://github.com/professorsugoi">
+            <span><em>スゴイ</em></span>
+            <span><em>スゴイ</em></span>
+            <span><em>スゴイ</em></span>
           </a>
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
+            <li>I'm SUGOI!</li>
           </ul>
           <ul>
-            <li>Software Engineer at <a href="https://www.toptal.com/resume/nikola-duza#utilize-just-top-notch-software-coders">Toptal</a></li>
+            <li>I'm an <a href="https://plasticiv.com">artist</a> learning <a href="https://github.com/professorsugoi/web2electricboogaloo"> Webdev</a></li>
           </ul>
           <ul>
-            <li>Organizer at <a href="https://novisadjs.org">Novi Sad JS</a></li>
+            <li>I like to make lots of <a href="#">lists</a></li>
           </ul>
           <ul>
-            <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
+            <li><a href="mailto:plasticiv@outlook.com" role="button"><span class='hi'>✨</span></a></li>
           </ul>
         </section>
       </div>
